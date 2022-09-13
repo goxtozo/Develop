@@ -1,0 +1,27 @@
+import sys pygame. Init
+
+WINDOW WIDTH = 1200
+
+WINDOW HEIGHT 600
+
+FPS-20
+
+BLACK (0, 0, 0)
+
+GREEN (0, 255, 0) ADD NEW FLAME RATE 25
+
+cactus ing pygame. image. load('cactus bricks.png")
+
+cactus ing rect coctus ing.get_rect()
+
+cactus img_rect left-0
+
+Fire.ing pygame. Image load('fire bricks.png")
+
+fire tng rect fire img.get_rect()
+
+Fire ing rect left- t-e
+
+CLOCK = pygame.time Clock() Font = pygame font. SysFont('forte, 20).
+
+canvas - pygame.display.set_mode((WINDOW WIDTH, WINDOW HEIGHT)) pygame display.set_caption("Mario")
